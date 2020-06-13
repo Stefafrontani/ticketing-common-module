@@ -21,3 +21,6 @@ We install dependencies needed by those files:
 - @types/cookie-session
 - @types/express
 - @types/jsonwebtoken
+
+Commit - Update 3:
+Take out ./ from "files" [] prop
