@@ -24,3 +24,6 @@ We install dependencies needed by those files:
 
 Commit - Update 3:
 Take out ./ from "files" [] prop
+
+Commit - Update 4:
+Console log the error not catch in the if (err instance of Error), in case we have a scenario we did not imagine - Give us info about that unexpected error
