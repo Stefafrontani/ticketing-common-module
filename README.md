@@ -27,3 +27,6 @@ Take out ./ from "files" [] prop
 
 Commit - Update 4:
 Console log the error not catch in the if (err instance of Error), in case we have a scenario we did not imagine - Give us info about that unexpected error
+
+Commit - Update 5:
+Uncomment console log of the error
