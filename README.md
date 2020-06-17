@@ -30,3 +30,6 @@ Console log the error not catch in the if (err instance of Error), in case we ha
 
 Commit - Update 5:
 Uncomment console log of the error
+
+Commit - Update 6:
+Bring everything done in the nats-streaming-server project into the common module of the ticketing app. Some more code was added - TicketUpdated event for example.
