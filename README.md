@@ -33,3 +33,6 @@ Uncomment console log of the error
 
 Commit - Update 6:
 Bring everything done in the nats-streaming-server project into the common module of the ticketing app. Some more code was added - TicketUpdated event for example.
+
+Commit - Update 7:
+Add the enum type for the status an order can have. This status will be used and updated by various services so we make this an enum type to be shared among those services.
