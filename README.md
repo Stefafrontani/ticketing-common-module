@@ -36,3 +36,8 @@ Bring everything done in the nats-streaming-server project into the common modul
 
 Commit - Update 7:
 Add the enum type for the status an order can have. This status will be used and updated by various services so we make this an enum type to be shared among those services.
+
+Commit - Update 8:
+Add the interface for the order:created and order:cancelled events. Each one inside its own file
+Add these new channels as subjects in the subjects enum type, inside subjects.ts file
+Re-export new files from index.ts
