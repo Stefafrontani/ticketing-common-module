@@ -44,3 +44,6 @@ Re-export new files from index.ts
 
 Commit - Update X - Stop counting here
 Add version property to every event registered until now
+
+Commit
+Fix version in order cancelled event
