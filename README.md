@@ -41,3 +41,6 @@ Commit - Update 8:
 Add the interface for the order:created and order:cancelled events. Each one inside its own file
 Add these new channels as subjects in the subjects enum type, inside subjects.ts file
 Re-export new files from index.ts
+
+Commit - Update X - Stop counting here
+Add version property to every event registered until now
