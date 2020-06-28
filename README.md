@@ -51,3 +51,6 @@ Fix version in order cancelled event
 Commit
 Mark client property inside the base-listener and base-publisher as protected
 Add orderId inside the TicketUpdatedEvent (event that will be emmited in the listener of OrderCreatedListener)
+
+Commit
+Add event type expiration:complete for the expiration service
