@@ -57,3 +57,6 @@ Add event type expiration:complete for the expiration service
 
 Commit
 Add event type payment:created for the payment service, to emit event when a charge is created inside charges in the stirpe library
+
+Commit
+Fix subject for the payment-created-event. Wrong: OrderCreated for PaymentCreated
