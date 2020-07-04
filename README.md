@@ -54,3 +54,6 @@ Add orderId inside the TicketUpdatedEvent (event that will be emmited in the lis
 
 Commit
 Add event type expiration:complete for the expiration service
+
+Commit
+Add event type payment:created for the payment service, to emit event when a charge is created inside charges in the stirpe library
